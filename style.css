@@ -20,6 +20,10 @@
 .hero_title {
     padding-top: 10rem;
     font-size: 4.5rem;
+    .move-up { 
+    position: relative; 
+    top: -20px; /* Adjust the value as needed */ 
+} 
 }
 .hero_desc {
     font-size: 2rem;
